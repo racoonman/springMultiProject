@@ -1,7 +1,7 @@
 # springMultiProject
 Spring project with multiple modules separated
 * Database model and DAO service
-* * JDO with Datanucleus
+  * JDO with Datanucleus
 * WebServices
 * Static web content
 * War deployer
