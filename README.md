@@ -24,6 +24,6 @@ from war module folder
 mvn spring-boot:run
 ```
 
-# Deploy as WAR in a jetty distribution
+### Deploy as WAR in a jetty distribution
 * copy war/target/war-<version>.war into your webapps folder
 * use webap.xml as a template to configure and copy-it into the webapps folder too
